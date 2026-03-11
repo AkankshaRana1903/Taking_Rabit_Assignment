@@ -1,0 +1,10 @@
+Region,Product,Revenue,Month
+North,Laptop,12000,Jan
+South,Phone,9000,Jan
+West,Laptop,15000,Jan
+North,Phone,8000,Feb
+South,Laptop,10000,Feb
+West,Phone,11000,Feb
+North,Laptop,14000,Mar
+South,Phone,9500,Mar
+West,Laptop,16000,Mar
